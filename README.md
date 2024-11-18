@@ -1,9 +1,5 @@
 # Text GenAI
-A repository for developing and experimenting with advanced text generation models. 
-It provides a structured framework with various machine learning models, techniques, 
-and tools to generate human-like text using cutting-edge NLP technologies, making it 
-an essential resource for AI-driven text applications.
-
+The main repository for developing and experimenting with advanced text generation models, Text GenAI serves as a central hub containing subfolders for various impactful projects. It provides a structured framework incorporating state-of-the-art machine learning models, techniques, and tools to generate human-like text using cutting-edge NLP technologies. This repository is an essential resource for AI-driven text applications, fostering innovation and delivering real-world impact across diverse domains.
 # Objectives
 1. Develop Advanced Text Generation Models
 Create and refine models capable of producing high-quality, human-like text.
